@@ -1,0 +1,4 @@
+*.lprof
+.vscode/
+_testing/
+client.py
